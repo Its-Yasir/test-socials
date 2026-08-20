@@ -1,0 +1,3206 @@
+{
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2088292174425375132",
+      "url": "https://x.com/somosan60/status/2088292174425375132",
+      "twitterUrl": "https://twitter.com/somosan60/status/2088292174425375132",
+      "text": "おかしいな。\n50代は、マイコン創世記〜Windows誕生から触ってて、 ガラケー、スマホ、各種ゲーム機いじり倒してるんだけどな。 ひょっとして、AIが苦手なんですか…。",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:27 +0000 2026",
+      "lang": "ja",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088292174425375132",
+      "displayTextRange": [
+        0,
+        85
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "somosan60",
+        "url": "https://x.com/somosan60",
+        "twitterUrl": "https://twitter.com/somosan60",
+        "id": "296521165",
+        "name": "そもさん｜50代からつくる収入の柱",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2079927672860479488/PaOoCyww_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/296521165/1784763881",
+        "description": "",
+        "location": "",
+        "followers": 67,
+        "following": 66,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Tue May 10 22:42:30 +0000 2011",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 1622,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 0,
+        "statusesCount": 166,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1954852928625488102"
+        ],
+        "profile_bio": {
+          "description": "今の収入がなくなる日は、いつか来る。\nだから今、次の柱を1本立てる。\n50代からの副業の選び方と実践を、AI前提で。\n目標は月3〜5万です。",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "2088209331506561242",
+        "url": "https://x.com/hukugyootaku/status/2088209331506561242",
+        "twitterUrl": "https://twitter.com/hukugyootaku/status/2088209331506561242",
+        "text": "AIとSNSとITに強い10代20代は稼ぎやすいんですよな。",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 6,
+        "likeCount": 6,
+        "quoteCount": 1,
+        "viewCount": 1790,
+        "createdAt": "Fri Aug 14 10:21:16 +0000 2026",
+        "lang": "ja",
+        "bookmarkCount": 5,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2088209331506561242",
+        "displayTextRange": [
+          0,
+          30
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "hukugyootaku",
+          "url": "https://x.com/hukugyootaku",
+          "twitterUrl": "https://twitter.com/hukugyootaku",
+          "id": "1085238140",
+          "name": "副業オタクにゃふ～@楽過ぎる副業",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1545456926506782720/AEPmr-at_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1085238140/1785719176",
+          "description": "",
+          "location": "期間限定お試し無料の副業、投資、競馬のメンシプはこちら🔽",
+          "followers": 53433,
+          "following": 113,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": false,
+          "createdAt": "Sun Jan 13 06:47:01 +0000 2013",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 56759,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 9888,
+          "statusesCount": 50597,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1743923703367573936"
+          ],
+          "profile_bio": {
+            "description": "副業収益2億超えました。副業記事1記事で1.2億を売上｜そのノウハウも見れる副業、投資、競馬で人気のメンバーシップは半年で1700人→今月は1ヶ月無料でお試し出来ます。お試しだけなら無料！下のリンクからぜひお試しください｜ Yahooニュース出演｜【販売数日本一の副業記事➡】https://t.co/b3VrLBDlic",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "brmk.io/kpVj",
+                    "expanded_url": "http://brmk.io/kpVj",
+                    "indices": [
+                      138,
+                      161
+                    ],
+                    "url": "https://t.co/b3VrLBDlic"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "note.com/niyahoo/member…",
+                    "expanded_url": "https://note.com/niyahoo/membership",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/vQCcT8MO1K"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "2088112861969326464",
+          "url": "",
+          "twitterUrl": "",
+          "text": "",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "viewCount": 0,
+          "createdAt": "",
+          "lang": "",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "",
+          "displayTextRange": [],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {},
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292173955641364",
+      "url": "https://x.com/DavidSvendsen/status/2088292173955641364",
+      "twitterUrl": "https://twitter.com/DavidSvendsen/status/2088292173955641364",
+      "text": "Cisco: Instead of using the power of AI to fix vulnerabilities, we're going to scare customers into wasting money on new gear. https://t.co/xzcbdDja8n",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:27 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088292173955641364",
+      "displayTextRange": [
+        0,
+        126
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "DavidSvendsen",
+        "url": "https://x.com/DavidSvendsen",
+        "twitterUrl": "https://twitter.com/DavidSvendsen",
+        "id": "81207328",
+        "name": "David Svendsen",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1882638111970398210/yQqy3xaO_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/81207328/1730159300",
+        "description": "",
+        "location": "CA & TX",
+        "followers": 376,
+        "following": 517,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Fri Oct 09 21:30:44 +0000 2009",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 37607,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 879,
+        "statusesCount": 13332,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "Dad, Veteran, MBA, AI and Vibe Coding Enthusiast, Carnivore.\nIT Director.\nhttps://t.co/VL7zFafPUh",
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "display_url": "linktr.ee/davidsvendsen",
+                  "expanded_url": "https://linktr.ee/davidsvendsen",
+                  "indices": [
+                    74,
+                    97
+                  ],
+                  "url": "https://t.co/VL7zFafPUh"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/xzcbdDja8n",
+            "expanded_url": "https://x.com/DavidSvendsen/status/2088292173955641364/photo/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 49,
+                    "w": 49,
+                    "x": 64,
+                    "y": 763
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 49,
+                    "w": 49,
+                    "x": 64,
+                    "y": 763
+                  }
+                ]
+              }
+            },
+            "id_str": "2088292115260583936",
+            "indices": [
+              127,
+              150
+            ],
+            "media_key": "3_2088292115260583936",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARz7Gp1VWzAACgACHPsaqv/asBQAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABHPsanVVbMAAKAAIc+xqq/9qwFAAA",
+                "media_key": "3_2088292115260583936"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/HPsanVVbMAASMn2.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 605,
+                  "w": 1080,
+                  "x": 0,
+                  "y": 102
+                },
+                {
+                  "h": 886,
+                  "w": 886,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 886,
+                  "w": 777,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 886,
+                  "w": 443,
+                  "x": 75,
+                  "y": 0
+                },
+                {
+                  "h": 886,
+                  "w": 1080,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 886,
+              "width": 1080
+            },
+            "sizes": {
+              "large": {
+                "h": 886,
+                "w": 1080
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/xzcbdDja8n"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292173729165395",
+      "url": "https://x.com/celsus_lee/status/2088292173729165395",
+      "twitterUrl": "https://twitter.com/celsus_lee/status/2088292173729165395",
+      "text": "AI 지휘자가 돼라\n프롬프트 잘 쓰는 게 아니라\nAI 팀을 설계·관리하고, 한계를 즉시 감지하며 인간만의 최종 판단을 남기는 구조가 핵심이다",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:27 +0000 2026",
+      "lang": "ko",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "2088292083962708375",
+      "conversationId": "2088292083962708375",
+      "displayTextRange": [
+        0,
+        78
+      ],
+      "inReplyToUserId": "1531162475907137537",
+      "inReplyToUsername": "celsus_lee",
+      "author": {
+        "type": "user",
+        "userName": "celsus_lee",
+        "url": "https://x.com/celsus_lee",
+        "twitterUrl": "https://twitter.com/celsus_lee",
+        "id": "1531162475907137537",
+        "name": "이진혁 LEE JIN HYEOK",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2053317528592805888/8wx9et4g_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1531162475907137537/1777546211",
+        "description": "",
+        "location": "대한민국",
+        "followers": 3371,
+        "following": 4010,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Mon May 30 06:36:22 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 53727,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 284,
+        "statusesCount": 47945,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2087826651698610309"
+        ],
+        "profile_bio": {
+          "description": "현실주의 20대 직장인\n기관사로 배 타다 온 흙수저 출신 대기업 재직자\n2030을 위한 커리어, 투자 가이드\n#인간관계 #사회생활 #투자 #커리어",
+          "entities": {
+            "description": {
+              "hashtags": [
+                {
+                  "indices": [
+                    61,
+                    66
+                  ],
+                  "text": "인간관계"
+                },
+                {
+                  "indices": [
+                    67,
+                    72
+                  ],
+                  "text": "사회생활"
+                },
+                {
+                  "indices": [
+                    73,
+                    76
+                  ],
+                  "text": "투자"
+                },
+                {
+                  "indices": [
+                    77,
+                    81
+                  ],
+                  "text": "커리어"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292170075951374",
+      "url": "https://x.com/Roba190423Roba/status/2088292170075951374",
+      "twitterUrl": "https://twitter.com/Roba190423Roba/status/2088292170075951374",
+      "text": "@sOTYlDjur671226 차카는 NG입니다. AI 알고리즘 검색에 걸리기 때문에, 이 문장은 삭제 추천입니다.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:26 +0000 2026",
+      "lang": "ko",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "2088290935721660721",
+      "conversationId": "2088258366460317834",
+      "displayTextRange": [
+        17,
+        64
+      ],
+      "inReplyToUserId": "1654161018292142080",
+      "inReplyToUsername": "sOTYlDjur671226",
+      "author": {
+        "type": "user",
+        "userName": "Roba190423Roba",
+        "url": "https://x.com/Roba190423Roba",
+        "twitterUrl": "https://twitter.com/Roba190423Roba",
+        "id": "2054525612724039680",
+        "name": "robaの耳",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "coverPicture": "",
+        "description": "",
+        "location": "",
+        "followers": 13,
+        "following": 138,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Wed May 13 11:35:00 +0000 2026",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 1832,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 0,
+        "statusesCount": 195,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1654161018292142080",
+            "indices": [
+              0,
+              16
+            ],
+            "name": "이영귀",
+            "screen_name": "sOTYlDjur671226"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292169383616618",
+      "url": "https://x.com/sweetenerpetal/status/2088292169383616618",
+      "twitterUrl": "https://twitter.com/sweetenerpetal/status/2088292169383616618",
+      "text": "@CoWatchCop @Suzybeau1 @sondra_joia You’re sick in the head and making AI about what happened to those kids. Wtaf is wrong with you, disgusting",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:26 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "2088242796951982548",
+      "conversationId": "2088209555603726362",
+      "displayTextRange": [
+        36,
+        143
+      ],
+      "inReplyToUserId": "2078738774071058432",
+      "inReplyToUsername": "CoWatchCop",
+      "author": {
+        "type": "user",
+        "userName": "sweetenerpetal",
+        "url": "https://x.com/sweetenerpetal",
+        "twitterUrl": "https://twitter.com/sweetenerpetal",
+        "id": "1902244137786642432",
+        "name": "B ꕤ PETAL OUT NOW ꕤ",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2081195553019363328/Bn1Y00jF_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1902244137786642432/1780877059",
+        "description": "",
+        "location": "United States",
+        "followers": 974,
+        "following": 1078,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Wed Mar 19 06:22:09 +0000 2025",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 86002,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 768,
+        "statusesCount": 6192,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2083384406115553315"
+        ],
+        "profile_bio": {
+          "description": "Baby don’t you know all them tears gonna come and go 💧☁️☀️ arianator since 2013💋☀️",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "2078738774071058432",
+            "indices": [
+              0,
+              11
+            ],
+            "name": "CoWatchCoParent",
+            "screen_name": "CoWatchCop"
+          },
+          {
+            "id_str": "1983137685368602624",
+            "indices": [
+              12,
+              22
+            ],
+            "name": "Suzy",
+            "screen_name": "Suzybeau1"
+          },
+          {
+            "id_str": "949476383276830720",
+            "indices": [
+              23,
+              35
+            ],
+            "name": "joia 🇺🇸🇺🇸🇺🇸",
+            "screen_name": "sondra_joia"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292168234324317",
+      "url": "https://x.com/EdgarBlom/status/2088292168234324317",
+      "twitterUrl": "https://twitter.com/EdgarBlom/status/2088292168234324317",
+      "text": "@NielsHonkoop @Denkjewel NL-ZK : wortels in Koreaanse Oorlog (1950-’53), waarin ~5.000 NL-militairen vochten voor Zuid-Korea (122 gesneuveld). Sinds 2022 strategisch partnerschap: handel, defensie, veiligheid. NL = grootste EU-investeerder &amp; 2e handelspartner. Focus: chips, AI, Indo-Pacific stabiliteit.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:26 +0000 2026",
+      "lang": "nl",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "2088260167271899574",
+      "conversationId": "2088252757622866241",
+      "displayTextRange": [
+        25,
+        308
+      ],
+      "inReplyToUserId": "243328226",
+      "inReplyToUsername": "NielsHonkoop",
+      "author": {
+        "type": "user",
+        "userName": "EdgarBlom",
+        "url": "https://x.com/EdgarBlom",
+        "twitterUrl": "https://twitter.com/EdgarBlom",
+        "id": "98929232",
+        "name": "edgar blom",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1419707885114822656/4YfBo9Yf_normal.jpg",
+        "coverPicture": "",
+        "description": "",
+        "location": "",
+        "followers": 232,
+        "following": 289,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Wed Dec 23 18:00:56 +0000 2009",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 72709,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 800,
+        "statusesCount": 80568,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "Doe normaal",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "243328226",
+            "indices": [
+              0,
+              13
+            ],
+            "name": "Nelis 🇳🇱🇦🇹",
+            "screen_name": "NielsHonkoop"
+          },
+          {
+            "id_str": "615177144",
+            "indices": [
+              14,
+              24
+            ],
+            "name": "Denkjewel",
+            "screen_name": "Denkjewel"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292167856828442",
+      "url": "https://x.com/tintalilas/status/2088292167856828442",
+      "twitterUrl": "https://twitter.com/tintalilas/status/2088292167856828442",
+      "text": "aquela amiga que fica nervosa e começa a rir igual cachorra ai bate a cabeça na parede e cai no chao",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:26 +0000 2026",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088292167856828442",
+      "displayTextRange": [
+        0,
+        100
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "tintalilas",
+        "url": "https://x.com/tintalilas",
+        "twitterUrl": "https://twitter.com/tintalilas",
+        "id": "1525675410998042626",
+        "name": "lila 🐾",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2084351164171026434/dFqTSKI6_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1525675410998042626/1785783106",
+        "description": "",
+        "location": "pretty girl avenue",
+        "followers": 48,
+        "following": 66,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun May 15 03:12:33 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 755,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 26,
+        "statusesCount": 7607,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2069584664277213521"
+        ],
+        "profile_bio": {
+          "description": "— ℛeflections ’",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292167664255412",
+      "url": "https://x.com/navelorange345/status/2088292167664255412",
+      "twitterUrl": "https://twitter.com/navelorange345/status/2088292167664255412",
+      "text": "ChatGPTに実家にある日中戦争の感謝状を現代語訳と図解させたらかなり分かりやすくできた(正確かどうかは分からないけど)\n1年前くらいにも現代語訳させたことがあって、その時は一見してトンチンカンな訳をしてたからAIの進化を感じる...！🤔 https://t.co/wh6jpV0JV0",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:26 +0000 2026",
+      "lang": "ja",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088292167664255412",
+      "displayTextRange": [
+        0,
+        120
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "navelorange345",
+        "url": "https://x.com/navelorange345",
+        "twitterUrl": "https://twitter.com/navelorange345",
+        "id": "3003278498",
+        "name": "shingo13",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1969048512416657408/N3zK2Z08_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/3003278498/1615371974",
+        "description": "",
+        "location": "山形の日本海側",
+        "followers": 75,
+        "following": 138,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Fri Jan 30 11:42:47 +0000 2015",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 3707,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 568,
+        "statusesCount": 2638,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "マスオさんしてます。\nよろしくお願いします。",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/wh6jpV0JV0",
+            "expanded_url": "https://x.com/navelorange345/status/2088292167664255412/photo/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 107,
+                    "w": 107,
+                    "x": 1111,
+                    "y": 441
+                  },
+                  {
+                    "h": 128,
+                    "w": 128,
+                    "x": 955,
+                    "y": 265
+                  },
+                  {
+                    "h": 119,
+                    "w": 119,
+                    "x": 475,
+                    "y": 725
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 210,
+                    "w": 210,
+                    "x": 2171,
+                    "y": 863
+                  },
+                  {
+                    "h": 250,
+                    "w": 250,
+                    "x": 1867,
+                    "y": 519
+                  },
+                  {
+                    "h": 234,
+                    "w": 234,
+                    "x": 929,
+                    "y": 1417
+                  }
+                ]
+              }
+            },
+            "id_str": "2088292154804432896",
+            "indices": [
+              121,
+              144
+            ],
+            "media_key": "3_2088292154804432896",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARz7GqaKWnAACgACHPsaqYjbwbQAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABHPsapopacAAKAAIc+xqpiNvBtAAA",
+                "media_key": "3_2088292154804432896"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/HPsapopacAAvZRO.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 2240,
+                  "w": 4000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 3000,
+                  "x": 600,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 2632,
+                  "x": 784,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 1500,
+                  "x": 1350,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 4000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 3000,
+              "width": 4000
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/wh6jpV0JV0"
+          },
+          {
+            "display_url": "pic.x.com/wh6jpV0JV0",
+            "expanded_url": "https://x.com/navelorange345/status/2088292167664255412/photo/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 85,
+                    "w": 85,
+                    "x": 39,
+                    "y": 781
+                  },
+                  {
+                    "h": 84,
+                    "w": 84,
+                    "x": 309,
+                    "y": 196
+                  },
+                  {
+                    "h": 91,
+                    "w": 91,
+                    "x": 6,
+                    "y": 393
+                  },
+                  {
+                    "h": 111,
+                    "w": 111,
+                    "x": 1072,
+                    "y": 420
+                  },
+                  {
+                    "h": 121,
+                    "w": 121,
+                    "x": 826,
+                    "y": 180
+                  },
+                  {
+                    "h": 103,
+                    "w": 103,
+                    "x": 1077,
+                    "y": 298
+                  },
+                  {
+                    "h": 126,
+                    "w": 126,
+                    "x": 1069,
+                    "y": 490
+                  },
+                  {
+                    "h": 171,
+                    "w": 171,
+                    "x": 4,
+                    "y": 580
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 85,
+                    "w": 85,
+                    "x": 39,
+                    "y": 781
+                  },
+                  {
+                    "h": 84,
+                    "w": 84,
+                    "x": 309,
+                    "y": 196
+                  },
+                  {
+                    "h": 91,
+                    "w": 91,
+                    "x": 6,
+                    "y": 393
+                  },
+                  {
+                    "h": 111,
+                    "w": 111,
+                    "x": 1072,
+                    "y": 420
+                  },
+                  {
+                    "h": 121,
+                    "w": 121,
+                    "x": 826,
+                    "y": 180
+                  },
+                  {
+                    "h": 103,
+                    "w": 103,
+                    "x": 1077,
+                    "y": 298
+                  },
+                  {
+                    "h": 126,
+                    "w": 126,
+                    "x": 1069,
+                    "y": 490
+                  },
+                  {
+                    "h": 171,
+                    "w": 171,
+                    "x": 4,
+                    "y": 580
+                  }
+                ]
+              }
+            },
+            "id_str": "2088292163360849920",
+            "indices": [
+              121,
+              144
+            ],
+            "media_key": "3_2088292163360849920",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARz7GqiIWwAACgACHPsaqYjbwbQAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABHPsaqIhbAAAKAAIc+xqpiNvBtAAA",
+                "media_key": "3_2088292163360849920"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/HPsaqIhbAAAdhLQ.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 860,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1024,
+                  "w": 1024,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1024,
+                  "w": 898,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1024,
+                  "w": 512,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1024,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1024,
+              "width": 1536
+            },
+            "sizes": {
+              "large": {
+                "h": 1024,
+                "w": 1536
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/wh6jpV0JV0"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292167508697500",
+      "url": "https://x.com/AquelaLetycia/status/2088292167508697500",
+      "twitterUrl": "https://twitter.com/AquelaLetycia/status/2088292167508697500",
+      "text": "E DIGO MAIS\nPq ela conseguiu apoio internacional, começaram a falar que o Br era retrógrado E AI SIM ELA CONSEGUIU, depois de levar um tiro e ser eletrocutada e TER QUE VOLTAR PRA CASA DO MARIDO",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:25 +0000 2026",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088292167508697500",
+      "displayTextRange": [
+        0,
+        194
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "AquelaLetycia",
+        "url": "https://x.com/AquelaLetycia",
+        "twitterUrl": "https://twitter.com/AquelaLetycia",
+        "id": "2896353719",
+        "name": "˙ᵕ˙ Pamonha ᓚ₍⑅^..^₎♡",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1988032159228071936/ED67tH38_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2896353719/1760209873",
+        "description": "",
+        "location": "",
+        "followers": 20,
+        "following": 610,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Fri Nov 28 19:51:24 +0000 2014",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 32121,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 932,
+        "statusesCount": 12203,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2073129596141146228"
+        ],
+        "profile_bio": {
+          "description": "As vezes social media as vezes só sei lá bixo",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "2087924274686271628",
+        "url": "https://x.com/plasticodosofa/status/2087924274686271628",
+        "twitterUrl": "https://twitter.com/plasticodosofa/status/2087924274686271628",
+        "text": "passei 10min no banheiro me controlando pra não chorar pq vi a impressão da lei maria da penha e me dei conta que a lei tem minha idade, ler no papel que bater em mulher virou crime só em 7 de agosto de 2006 acabou comigo pq caiu a ficha  https://t.co/GtQMBr3q7Q",
+        "source": "Twitter for iPhone",
+        "retweetCount": 1828,
+        "replyCount": 86,
+        "likeCount": 33941,
+        "quoteCount": 109,
+        "viewCount": 435677,
+        "createdAt": "Thu Aug 13 15:28:33 +0000 2026",
+        "lang": "pt",
+        "bookmarkCount": 704,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2087924274686271628",
+        "displayTextRange": [
+          0,
+          262
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "plasticodosofa",
+          "url": "https://x.com/plasticodosofa",
+          "twitterUrl": "https://twitter.com/plasticodosofa",
+          "id": "1170814434954153985",
+          "name": "ִֶָ",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2056145237269991424/wGzluHWq_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1170814434954153985/1765894174",
+          "description": "",
+          "location": "she/her ",
+          "followers": 218,
+          "following": 209,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sun Sep 08 21:41:37 +0000 2019",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 51802,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 998,
+          "statusesCount": 7897,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2009082505920733319"
+          ],
+          "profile_bio": {
+            "description": "͏ ͏ ͏͏ ͏ quadrafônico, 1972",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "instagram.com/syasmimg/profi…",
+                    "expanded_url": "https://www.instagram.com/syasmimg/profilecard/?igsh=dTlwc2traGs3NGl4",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/FIliyewfQE"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false,
+                "source_user": {
+                  "user_results": {
+                    "rest_id": "1251652637268860932",
+                    "result": {
+                      "__typename": "User",
+                      "action_counts": {
+                        "favorites_count": 10426
+                      },
+                      "avatar": {
+                        "image_url": "https://pbs.twimg.com/profile_images/2038292911369175040/CF1slXty_normal.jpg"
+                      },
+                      "banner": {
+                        "image_url": "https://pbs.twimg.com/profile_banners/1251652637268860932/1769008650"
+                      },
+                      "core": {
+                        "created_at": "Sat Apr 18 23:23:45 +0000 2020",
+                        "name": "Nolly Babes",
+                        "screen_name": "nolly_babes"
+                      },
+                      "dm_permissions": {
+                        "can_dm": true
+                      },
+                      "exclusive_tweet_following": false,
+                      "follow_request_sent": false,
+                      "identity_profile_labels_highlighted_label": {},
+                      "location": {
+                        "location": ""
+                      },
+                      "media_permissions": {
+                        "can_media_tag": true
+                      },
+                      "notifications_settings": {
+                        "notifications_enabled": false
+                      },
+                      "pinned_items": {},
+                      "privacy": {
+                        "protected": false,
+                        "suspended": false
+                      },
+                      "private_super_following": false,
+                      "profile_bio": {
+                        "description": "",
+                        "entities": {
+                          "description": {}
+                        }
+                      },
+                      "profile_image_shape": "Circle",
+                      "profile_metadata": {
+                        "profile_interstitial_type": "",
+                        "profile_link_color": "1DA1F2"
+                      },
+                      "profile_translation": {
+                        "translator_type_enum": "None"
+                      },
+                      "properties": {
+                        "has_extended_profile": true,
+                        "has_no_screen_name": false
+                      },
+                      "relationship_counts": {
+                        "followers": 9827,
+                        "following": 128
+                      },
+                      "relationship_perspectives": {
+                        "blocked_by": false,
+                        "blocking": false,
+                        "followed_by": false,
+                        "following": false,
+                        "live_following": false,
+                        "muting": false
+                      },
+                      "rest_id": "1251652637268860932",
+                      "smart_blocked_by": false,
+                      "smart_blocking": false,
+                      "super_follow_eligible": false,
+                      "super_followed_by": false,
+                      "super_following": false,
+                      "tweet_counts": {
+                        "media_tweets": 1781,
+                        "tweets": 2862
+                      },
+                      "verification": {
+                        "is_blue_verified": false,
+                        "verified": false
+                      },
+                      "website": {
+                        "url": ""
+                      }
+                    }
+                  }
+                }
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/GtQMBr3q7Q",
+              "expanded_url": "https://x.com/nolly_babes/status/1856724694524719403/video/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "id_str": "1856724636571955201",
+              "indices": [
+                239,
+                262
+              ],
+              "media_key": "7_1856724636571955201",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARnEaTg4lnABCgACHPnMEMaXIIwAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAADCgABGcRpODiWcAEKAAIc+cwQxpcgjAAA",
+                  "media_key": "7_1856724636571955201"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1856724636571955201/pu/img/g19CxaqIgiceY6NE.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 720,
+                "width": 942
+              },
+              "sizes": {
+                "large": {
+                  "h": 720,
+                  "w": 942
+                }
+              },
+              "source_status_id_str": "1856724694524719403",
+              "source_user_id_str": "1251652637268860932",
+              "type": "video",
+              "url": "https://t.co/GtQMBr3q7Q",
+              "video_info": {
+                "aspect_ratio": [
+                  157,
+                  120
+                ],
+                "duration_millis": 26303,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1856724636571955201/pu/pl/2TFSASsz4X4Wt1CY.m3u8?tag=12"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1856724636571955201/pu/vid/avc1/352x270/j8i_FJLlZROnFQsU.mp4?tag=12"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1856724636571955201/pu/vid/avc1/470x360/e4NmqpbHltpfMPUT.mp4?tag=12"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1856724636571955201/pu/vid/avc1/942x720/5sDzF11FJF55BSwf.mp4?tag=12"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292167412269447",
+      "url": "https://x.com/mathieusdn/status/2088292167412269447",
+      "twitterUrl": "https://twitter.com/mathieusdn/status/2088292167412269447",
+      "text": "Ciao,qualcuno è interessato ai biglietti per il concerto di Olivia Rodrigo alla MSG Arena di Milano? Ne ho due disponibili, contattatemi in privato se siete interessati.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:25 +0000 2026",
+      "lang": "it",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088292167412269447",
+      "displayTextRange": [
+        0,
+        169
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "mathieusdn",
+        "url": "https://x.com/mathieusdn",
+        "twitterUrl": "https://twitter.com/mathieusdn",
+        "id": "1092071808",
+        "name": "mat",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/436178963686518784/ZiLBbmCr_normal.jpeg",
+        "coverPicture": "",
+        "description": "",
+        "location": "",
+        "followers": 218,
+        "following": 1184,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Tue Jan 15 13:26:39 +0000 2013",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 125,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 43,
+        "statusesCount": 1065,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "love archery❤️",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292165260603906",
+      "url": "https://x.com/JonathanCochran/status/2088292165260603906",
+      "twitterUrl": "https://twitter.com/JonathanCochran/status/2088292165260603906",
+      "text": "@PeterDiamandis 750 tokens/sec matters less for writing than experimentation. I can’t wait until physical AI catches up: design an experiment, run it in a robotic lab, analyze the results, then design the next one. The atoms won’t move at 750 t/s, but science will move a hell of a lot faster.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:25 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "2088270680122937403",
+      "conversationId": "2088270680122937403",
+      "displayTextRange": [
+        16,
+        293
+      ],
+      "inReplyToUserId": "14710129",
+      "inReplyToUsername": "PeterDiamandis",
+      "author": {
+        "type": "user",
+        "userName": "JonathanCochran",
+        "url": "https://x.com/JonathanCochran",
+        "twitterUrl": "https://twitter.com/JonathanCochran",
+        "id": "17544645",
+        "name": "JonathanCochran",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2060364886064893952/8zNhgXIu_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/17544645/1784294885",
+        "description": "",
+        "location": "Columbus Ohio",
+        "followers": 90,
+        "following": 114,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Fri Nov 21 20:15:36 +0000 2008",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 53,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 188,
+        "statusesCount": 605,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1950170462396334233"
+        ],
+        "profile_bio": {
+          "description": "Translating the future: AI, energy, longevity, & leadership.\nMostly optimistic. Occasionally sarcastic. Always curious.\nDad, husband, occasional disruptor",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "14710129",
+            "indices": [
+              0,
+              15
+            ],
+            "name": "Peter H. Diamandis, MD",
+            "screen_name": "PeterDiamandis"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292165050884437",
+      "url": "https://x.com/toppromoalertas/status/2088292165050884437",
+      "twitterUrl": "https://twitter.com/toppromoalertas/status/2088292165050884437",
+      "text": "Promoções BR do dia 🇧🇷\n\n💥 Achado com valor chamativo!\nSe faz sentido pra você, melhor olhar agora.\n\nConfira: https://t.co/YpuytidMO6\n\nPor R$ 2.789,10\nFrete Grátis\n\nLG Smart TV 4K 55\" QNED 55QNED80 α7 AI 8ª Geração Local Dimming Alexa WebOS 25\n\nAmazon | TV https://t.co/OIDqg6KOMy",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:25 +0000 2026",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088292165050884437",
+      "displayTextRange": [
+        0,
+        255
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "toppromoalertas",
+        "url": "https://x.com/toppromoalertas",
+        "twitterUrl": "https://twitter.com/toppromoalertas",
+        "id": "275611458",
+        "name": "Top Promo Alertas",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2010750656185819136/3KRwYyhI_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/275611458/1768235290",
+        "description": "",
+        "location": "Ative as notificações! 🔔",
+        "followers": 81916,
+        "following": 42,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Fri Apr 01 16:45:38 +0000 2011",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 29751,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 381862,
+        "statusesCount": 469979,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2057661443894288804"
+        ],
+        "profile_bio": {
+          "description": "Promoções BR do dia 🇧🇷\n🛒 Amazon BR, KaBuM, Magalu e +\n🔗 Links afiliados podem gerar comissão",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "brunocezar.com.br/tw.linktree",
+                  "expanded_url": "http://brunocezar.com.br/tw.linktree",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/GXyZit31r5"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.x.com/OIDqg6KOMy",
+            "expanded_url": "https://x.com/toppromoalertas/status/2088292165050884437/photo/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "id_str": "2088292151109033984",
+            "indices": [
+              256,
+              279
+            ],
+            "media_key": "3_2088292151109033984",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARz7GqWuFyAACgACHPsaqO0W4VUAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABHPsapa4XIAAKAAIc+xqo7RbhVQAA",
+                "media_key": "3_2088292151109033984"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/HPsapa4XIAA1oA3.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 269,
+                  "w": 480,
+                  "x": 0,
+                  "y": 46
+                },
+                {
+                  "h": 360,
+                  "w": 360,
+                  "x": 120,
+                  "y": 0
+                },
+                {
+                  "h": 360,
+                  "w": 316,
+                  "x": 164,
+                  "y": 0
+                },
+                {
+                  "h": 360,
+                  "w": 180,
+                  "x": 234,
+                  "y": 0
+                },
+                {
+                  "h": 360,
+                  "w": 480,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 360,
+              "width": 480
+            },
+            "sizes": {
+              "large": {
+                "h": 360,
+                "w": 480
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/OIDqg6KOMy"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "urls": [
+          {
+            "display_url": "amazon.com.br/dp/B0F5X3QS7B?…",
+            "expanded_url": "https://www.amazon.com.br/dp/B0F5X3QS7B?tag=x-toppromoalertas-20",
+            "indices": [
+              109,
+              132
+            ],
+            "url": "https://t.co/YpuytidMO6"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292163402789002",
+      "url": "https://x.com/damobianyuan/status/2088292163402789002",
+      "twitterUrl": "https://twitter.com/damobianyuan/status/2088292163402789002",
+      "text": "@CryptoNovo311 Building AI agents and automations every day 🔨🤖",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:25 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "2088290849410953240",
+      "conversationId": "2088290849410953240",
+      "displayTextRange": [
+        15,
+        62
+      ],
+      "inReplyToUserId": "1110364405",
+      "inReplyToUsername": "CryptoNovo311",
+      "author": {
+        "type": "user",
+        "userName": "damobianyuan",
+        "url": "https://x.com/damobianyuan",
+        "twitterUrl": "https://twitter.com/damobianyuan",
+        "id": "1434822608919273473",
+        "name": "大漠哥",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2062236750664306688/KzxdQ2NJ_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1434822608919273473/1780976920",
+        "description": "",
+        "location": "合作与推广咨询👉",
+        "followers": 24822,
+        "following": 7645,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Mon Sep 06 10:16:00 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 56903,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 1313,
+        "statusesCount": 19947,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {
+          "label": {
+            "badge": {
+              "url": "https://pbs.twimg.com/profile_images/2078110887181983744/7-X1PEnt_bigger.jpg"
+            },
+            "description": "Creao AI",
+            "url": {
+              "url": "https://twitter.com/CreaoAI",
+              "url_type": "DeepLink"
+            },
+            "user_label_display_type": "Badge",
+            "user_label_type": "BusinessLabel"
+          }
+        },
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2063434395143602539"
+        ],
+        "profile_bio": {
+          "description": "📈缠论爱好者｜🏆币安百强创作者｜🔬独立研究员 | 🕊#蓝鸟会 成员  |  🦍BAYC👉https://t.co/ZcTghGURoQ | 🤖专注于 AI 生产力工具&重大时事&量化交易与基础设施 | 🍵大漠茶馆社区 👉 https://t.co/NLerWmWqIW",
+          "entities": {
+            "description": {
+              "hashtags": [
+                {
+                  "indices": [
+                    26,
+                    30
+                  ],
+                  "text": "蓝鸟会"
+                }
+              ],
+              "urls": [
+                {
+                  "display_url": "bayc.com/damobianyuan",
+                  "expanded_url": "https://bayc.com/damobianyuan",
+                  "indices": [
+                    44,
+                    67
+                  ],
+                  "url": "https://t.co/ZcTghGURoQ"
+                },
+                {
+                  "display_url": "t.me/damoteahouse",
+                  "expanded_url": "https://t.me/damoteahouse",
+                  "indices": [
+                    111,
+                    134
+                  ],
+                  "url": "https://t.co/NLerWmWqIW"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "linktr.ee/damobianyuan",
+                  "expanded_url": "https://linktr.ee/damobianyuan",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/EfjC7qWDOE"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1110364405",
+            "indices": [
+              0,
+              14
+            ],
+            "name": "CryptoNovo",
+            "screen_name": "CryptoNovo311"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292163222155542",
+      "url": "https://x.com/HCMetellus1/status/2088292163222155542",
+      "twitterUrl": "https://twitter.com/HCMetellus1/status/2088292163222155542",
+      "text": "Stop Guessing: 1st Steps to Automate Your Biz with AI\n\nDon't spray AI everywhere - start with 2-3 steps that save time, cut costs, and make you money.\n\n#AI #Automation #SmallBusiness #BusinessTips #AIforBusiness https://t.co/0Um7HidnrI",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:24 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088292163222155542",
+      "displayTextRange": [
+        0,
+        211
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "HCMetellus1",
+        "url": "https://x.com/HCMetellus1",
+        "twitterUrl": "https://twitter.com/HCMetellus1",
+        "id": "1206720504",
+        "name": "Handy Metellus",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/970335581426372608/bdhKL0Rq_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1206720504/1544019376",
+        "description": "",
+        "location": "Orlando, FL",
+        "followers": 177,
+        "following": 163,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Fri Feb 22 03:53:05 +0000 2013",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 262,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 129,
+        "statusesCount": 3787,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "💡 Co-Founder @bramework + @dynamikapps AI Consultant | Helping businesses automate & grow",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "",
+                  "indices": [
+                    13,
+                    23
+                  ],
+                  "name": "",
+                  "screen_name": "bramework"
+                },
+                {
+                  "id_str": "",
+                  "indices": [
+                    26,
+                    38
+                  ],
+                  "name": "",
+                  "screen_name": "dynamikapps"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "bramework.com",
+                  "expanded_url": "https://www.bramework.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/6bejliXkbv"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.x.com/0Um7HidnrI",
+            "expanded_url": "https://x.com/HCMetellus1/status/2088292163222155542/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "id_str": "2088292054103154688",
+            "indices": [
+              212,
+              235
+            ],
+            "media_key": "13_2088292054103154688",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARz7Go8YFuAAAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABHPsajxgW4AAAAA==",
+                "media_key": "13_2088292054103154688"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2088292054103154688/img/xvpnEi0JmEtintYa.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 1280,
+              "width": 720
+            },
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "w": 720
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/0Um7HidnrI",
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 115401,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2088292054103154688/pl/l2XTJZL8017EduI_.m3u8?tag=29"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2088292054103154688/vid/avc1/320x568/eq8bXigd8oQ-pxSq.mp4?tag=29"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2088292054103154688/vid/avc1/480x852/LLd8YKz6BHB7jB7J.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2088292054103154688/vid/avc1/720x1280/-eP9oGICW6vyAPYm.mp4?tag=29"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              152,
+              155
+            ],
+            "text": "AI"
+          },
+          {
+            "indices": [
+              156,
+              167
+            ],
+            "text": "Automation"
+          },
+          {
+            "indices": [
+              168,
+              182
+            ],
+            "text": "SmallBusiness"
+          },
+          {
+            "indices": [
+              183,
+              196
+            ],
+            "text": "BusinessTips"
+          },
+          {
+            "indices": [
+              197,
+              211
+            ],
+            "text": "AIforBusiness"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292161590632629",
+      "url": "https://x.com/TheStageAI/status/2088292161590632629",
+      "twitterUrl": "https://twitter.com/TheStageAI/status/2088292161590632629",
+      "text": "Example running on @Apple iPhone 16e https://t.co/em3yyEFSyg",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:24 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "2088292158390346228",
+      "conversationId": "2088292158390346228",
+      "displayTextRange": [
+        0,
+        36
+      ],
+      "inReplyToUserId": "1655522257555320832",
+      "inReplyToUsername": "TheStageAI",
+      "author": {
+        "type": "user",
+        "userName": "TheStageAI",
+        "url": "https://x.com/TheStageAI",
+        "twitterUrl": "https://twitter.com/TheStageAI",
+        "id": "1655522257555320832",
+        "name": "TheStage AI",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": "Business",
+        "profilePicture": "https://pbs.twimg.com/profile_images/1932342073815908352/erRR4Ztf_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1655522257555320832/1749541246",
+        "description": "",
+        "location": "AI",
+        "followers": 440,
+        "following": 345,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Mon May 08 10:38:05 +0000 2023",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 245,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 43,
+        "statusesCount": 114,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2054214082505449683"
+        ],
+        "profile_bio": {
+          "description": "Automated Enterprise Inference Stack & Research Lab",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "app.thestage.ai",
+                  "expanded_url": "https://app.thestage.ai/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/beL8rJFyZs"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.x.com/em3yyEFSyg",
+            "expanded_url": "https://x.com/TheStageAI/status/2088292161590632629/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "id_str": "2088290866637008896",
+            "indices": [
+              37,
+              60
+            ],
+            "media_key": "13_2088290866637008896",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARz7GXqdl3AAAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABHPsZep2XcAAAAA==",
+                "media_key": "13_2088290866637008896"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2088290866637008896/img/W1Mr2xjvra1eWLPS.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 848,
+              "width": 384
+            },
+            "sizes": {
+              "large": {
+                "h": 848,
+                "w": 384
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/em3yyEFSyg",
+            "video_info": {
+              "aspect_ratio": [
+                24,
+                53
+              ],
+              "duration_millis": 18433,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2088290866637008896/pl/w-AKFuVvIOo9gkuI.m3u8?tag=29"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2088290866637008896/vid/avc1/320x706/t8M_-srQwZ6yP8lz.mp4?tag=29"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2088290866637008896/vid/avc1/384x848/v1bo3-H-xtrLz67U.mp4?tag=29"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "380749300",
+            "indices": [
+              19,
+              25
+            ],
+            "name": "Apple",
+            "screen_name": "Apple"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292160785293383",
+      "url": "https://x.com/lolly_dayz_ii/status/2088292160785293383",
+      "twitterUrl": "https://twitter.com/lolly_dayz_ii/status/2088292160785293383",
+      "text": "@ogheneyxle If someone uses AI, the least they can do is stand by their decision mhen. Which one be all that shalaye way e do, only to expose himself¿ 💀",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:24 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "2088272988407845303",
+      "conversationId": "2088272988407845303",
+      "displayTextRange": [
+        12,
+        152
+      ],
+      "inReplyToUserId": "186391652",
+      "inReplyToUsername": "ogheneyxle",
+      "author": {
+        "type": "user",
+        "userName": "lolly_dayz_ii",
+        "url": "https://x.com/lolly_dayz_ii",
+        "twitterUrl": "https://twitter.com/lolly_dayz_ii",
+        "id": "1058418339599519745",
+        "name": "Dayz ii on Spotify🤍",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998901483073347585/sSvuB--g_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1058418339599519745/1764709915",
+        "description": "",
+        "location": "",
+        "followers": 1061,
+        "following": 1085,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Fri Nov 02 17:59:31 +0000 2018",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 43798,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 577,
+        "statusesCount": 48307,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1768177768762601942"
+        ],
+        "profile_bio": {
+          "description": "•“DAYZ TWO” •Rec. & Perf. Artist •Writer📝: @dayz_two_\n•Manager: @demiladeszn •Building @tnwmusicnetwork \n•Side Quester •Developer •A god🕊️🤍",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "",
+                  "indices": [
+                    43,
+                    53
+                  ],
+                  "name": "",
+                  "screen_name": "dayz_two_"
+                },
+                {
+                  "id_str": "",
+                  "indices": [
+                    64,
+                    76
+                  ],
+                  "name": "",
+                  "screen_name": "demiladeszn"
+                },
+                {
+                  "id_str": "",
+                  "indices": [
+                    87,
+                    103
+                  ],
+                  "name": "",
+                  "screen_name": "tnwmusicnetwork"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "linktr.ee/Dayzii",
+                  "expanded_url": "https://linktr.ee/Dayzii",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/HpdFEWSVpj"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "186391652",
+            "indices": [
+              0,
+              11
+            ],
+            "name": "bandito💜 | comfort food",
+            "screen_name": "ogheneyxle"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292160013730258",
+      "url": "https://x.com/rontokoro/status/2088292160013730258",
+      "twitterUrl": "https://twitter.com/rontokoro/status/2088292160013730258",
+      "text": "なんやねん！\nunityの古いコードと新しいコードって\nAIに聞きながらやってるわ",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:24 +0000 2026",
+      "lang": "ja",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088292160013730258",
+      "displayTextRange": [
+        0,
+        41
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "rontokoro",
+        "url": "https://x.com/rontokoro",
+        "twitterUrl": "https://twitter.com/rontokoro",
+        "id": "115369756",
+        "name": "zero",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1551077734897819648/mw4Cvh5O_normal.jpg",
+        "coverPicture": "",
+        "description": "",
+        "location": "しぞーか",
+        "followers": 1058,
+        "following": 1490,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Thu Feb 18 12:51:44 +0000 2010",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 41750,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 1116,
+        "statusesCount": 29015,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2052403079396405474"
+        ],
+        "profile_bio": {
+          "description": "初めまして 何事も始めたくなるしすぐ飽きやすくなる人です。 浪費家です。\nくそリプ送ります。\nフォローありがとうございます。フォロバは様子見させてもらいます\nぴちぴちギャルです",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292159736705168",
+      "url": "https://x.com/cyberprince_rwo/status/2088292159736705168",
+      "twitterUrl": "https://twitter.com/cyberprince_rwo/status/2088292159736705168",
+      "text": "@AJA17AR re bought today after i made a killing with AI trades",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 2,
+      "createdAt": "Fri Aug 14 15:50:24 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "2088291033184698713",
+      "conversationId": "2088289855063163222",
+      "displayTextRange": [
+        9,
+        62
+      ],
+      "inReplyToUserId": "164427049",
+      "inReplyToUsername": "AJA17AR",
+      "author": {
+        "type": "user",
+        "userName": "cyberprince_rwo",
+        "url": "https://x.com/cyberprince_rwo",
+        "twitterUrl": "https://twitter.com/cyberprince_rwo",
+        "id": "754888956991315969",
+        "name": "cyberprince",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2079699768431788033/y4FT8P9C_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/754888956991315969/1719526254",
+        "description": "",
+        "location": "Switzerland",
+        "followers": 19212,
+        "following": 378,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Mon Jul 18 04:02:07 +0000 2016",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 206213,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 5236,
+        "statusesCount": 62797,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "164427049",
+            "indices": [
+              0,
+              8
+            ],
+            "name": "AJA",
+            "screen_name": "AJA17AR"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292158390346228",
+      "url": "https://x.com/TheStageAI/status/2088292158390346228",
+      "twitterUrl": "https://twitter.com/TheStageAI/status/2088292158390346228",
+      "text": "Build real-time on-device multilingual TTS pipeline with TheStage AI Apple SDK. \n\nExport your voice references and ship it with application bundle. In the result you will get dynamically switching language TTS.\n\nInference support @Alibaba_Qwen tts 0.6b and @neuphonicspeech multilingual nano model.\n\nRead tutorial how to integrate it to your app: https://t.co/YeL5cgmR8W",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:23 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088292158390346228",
+      "displayTextRange": [
+        0,
+        273
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "TheStageAI",
+        "url": "https://x.com/TheStageAI",
+        "twitterUrl": "https://twitter.com/TheStageAI",
+        "id": "1655522257555320832",
+        "name": "TheStage AI",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": "Business",
+        "profilePicture": "https://pbs.twimg.com/profile_images/1932342073815908352/erRR4Ztf_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1655522257555320832/1749541246",
+        "description": "",
+        "location": "AI",
+        "followers": 440,
+        "following": 345,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Mon May 08 10:38:05 +0000 2023",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 245,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 43,
+        "statusesCount": 114,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2054214082505449683"
+        ],
+        "profile_bio": {
+          "description": "Automated Enterprise Inference Stack & Research Lab",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "app.thestage.ai",
+                  "expanded_url": "https://app.thestage.ai/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/beL8rJFyZs"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.x.com/J09zqkpU2V",
+            "expanded_url": "https://x.com/TheStageAI/status/2088292158390346228/photo/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 220,
+                    "w": 220,
+                    "x": 1172,
+                    "y": 468
+                  },
+                  {
+                    "h": 253,
+                    "w": 253,
+                    "x": 1151,
+                    "y": 364
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 220,
+                    "w": 220,
+                    "x": 1172,
+                    "y": 468
+                  },
+                  {
+                    "h": 253,
+                    "w": 253,
+                    "x": 1151,
+                    "y": 364
+                  }
+                ]
+              }
+            },
+            "id_str": "2088288618330677248",
+            "indices": [
+              274,
+              297
+            ],
+            "media_key": "3_2088288618330677248",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARz7F28kF2AACgACHPsap2AXIfQAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABHPsXbyQXYAAKAAIc+xqnYBch9AAA",
+                "media_key": "3_2088288618330677248"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/HPsXbyQXYAAUTZR.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 806,
+                  "w": 1440,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 810,
+                  "w": 810,
+                  "x": 315,
+                  "y": 0
+                },
+                {
+                  "h": 810,
+                  "w": 711,
+                  "x": 365,
+                  "y": 0
+                },
+                {
+                  "h": 810,
+                  "w": 405,
+                  "x": 518,
+                  "y": 0
+                },
+                {
+                  "h": 810,
+                  "w": 1440,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 810,
+              "width": 1440
+            },
+            "sizes": {
+              "large": {
+                "h": 810,
+                "w": 1440
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/J09zqkpU2V"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "docs.thestage.ai/tutorials/sour…",
+            "expanded_url": "https://docs.thestage.ai/tutorials/source/apple_sdk_tts_language_switching.html",
+            "indices": [
+              347,
+              370
+            ],
+            "url": "https://t.co/YeL5cgmR8W"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1753339277386342400",
+            "indices": [
+              230,
+              243
+            ],
+            "name": "Qwen",
+            "screen_name": "Alibaba_Qwen"
+          },
+          {
+            "id_str": "1623388292262535205",
+            "indices": [
+              257,
+              273
+            ],
+            "name": "Neuphonic",
+            "screen_name": "neuphonicspeech"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088292158046458003",
+      "url": "https://x.com/pandora_bl/status/2088292158046458003",
+      "twitterUrl": "https://twitter.com/pandora_bl/status/2088292158046458003",
+      "text": "@ilycats2611 Ai a gente já namora, casa, pq apaixonada ja to https://t.co/XydkF5jXqq",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Fri Aug 14 15:50:23 +0000 2026",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "2088290030045249732",
+      "conversationId": "2088271181199638973",
+      "displayTextRange": [
+        13,
+        60
+      ],
+      "inReplyToUserId": "2022783270828507136",
+      "inReplyToUsername": "ilycats2611",
+      "author": {
+        "type": "user",
+        "userName": "pandora_bl",
+        "url": "https://x.com/pandora_bl",
+        "twitterUrl": "https://twitter.com/pandora_bl",
+        "id": "1199429796029173761",
+        "name": "Filhinha de mamãe",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2052855689177899013/MVCj3ZLh_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1199429796029173761/1780708421",
+        "description": "",
+        "location": "tão tão distante ",
+        "followers": 54,
+        "following": 37,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Tue Nov 26 20:49:07 +0000 2019",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 41560,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 27,
+        "statusesCount": 5507,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "aqui só falo merda",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/XydkF5jXqq",
+            "expanded_url": "https://x.com/pandora_bl/status/2088292158046458003/photo/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "id_str": "2088292149661982720",
+            "indices": [
+              61,
+              84
+            ],
+            "media_key": "16_2088292149661982720",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARz7GqVX1uAACgACHPsap0uX0JMAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAACCgABHPsapVfW4AAKAAIc+xqnS5fQkwAA",
+                "media_key": "16_2088292149661982720"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/HPsapVfW4AAdvZq.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 382,
+              "width": 510
+            },
+            "sizes": {
+              "large": {
+                "h": 382,
+                "w": 510
+              }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/XydkF5jXqq",
+            "video_info": {
+              "aspect_ratio": [
+                255,
+                191
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/HPsapVfW4AAdvZq.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "2022783270828507136",
+            "indices": [
+              0,
+              12
+            ],
+            "name": "bibi",
+            "screen_name": "ilycats2611"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    }
+  ],
+  "has_next_page": true,
+  "next_cursor": "DAADDAABCgABHPsaqxvaQZwKAAIc-xqnS5fQkwAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUc-xquGAAnEAoABhz7Gq4X_9jwCwAHAAAA8EVtUEM2d0FBQWZRL2dHSk4wdkdwL0FBQUFCUWMreHFwNzFjZ2FoejdHcXJ5V3ZCVEhQc2FxUG1XOGdJYyt4cXBxdFpSWFJ6N0dxci8yckFVSFBzYXFZamJ3YlFjK3hxb2l0cndpaHo3R3Fld1Z2Q1FIUHNhcVgrV0lad2MreHFvZ0JheEZoejdHcWp0RnVGVkhQc2FxWlJXTUJvYyt4cW53Tm9CMGh6N0dxc2Iya0djSFBzYXArN1hJRWNjK3hxbllCY2g5Qno3R3FkTGw5Q1RIUHNhcUI3WG9MVWMreHFwZWRiQmh4ejdHcW9ZbTFFTwAA"
+}
