@@ -185,3 +185,27 @@ export interface ProfileAnalysisResponse {
   error?: string;
 }
 
+export interface AdvancedSearchAiResponse {
+  searchIntent: string;
+  searchStrategy: "Playbook A" | "Playbook B" | "Playbook C" | "Playbook D" | string;
+  generatedQuery: string;
+  appliedFilters: string[];
+  proTip: string;
+}
+
+export interface AdvancedSearchApiResponse {
+  success: boolean;
+  data?: {
+    aiStrategy: AdvancedSearchAiResponse;
+    tweets: TweetItem[];
+    total: number;
+    has_next_page: boolean;
+    next_cursor: string;
+    source: "api" | "fallback";
+    aiSource: "openai" | "fallback";
+    query: string;
+  };
+  error?: string;
+}
+
+

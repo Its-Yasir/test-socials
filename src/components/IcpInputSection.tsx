@@ -18,7 +18,7 @@ import {
 } from "lucide-react";
 
 interface IcpInputSectionProps {
-  platform: "twitter" | "reddit";
+  platform?: "twitter";
   onSearch: (icp: IcpInput, competitors?: string[]) => void;
   isLoading: boolean;
   initialCompetitors?: string;
@@ -35,7 +35,7 @@ const DEFAULT_COMPETITOR_SUGGESTIONS = [
 ];
 
 export function IcpInputSection({
-  platform,
+  platform = "twitter",
   onSearch,
   isLoading,
   initialCompetitors = "linear, jira",
@@ -58,10 +58,8 @@ export function IcpInputSection({
   const [painPoints, setPainPoints] = useState("High customer acquisition cost, low cold outreach reply rates");
   const [location, setLocation] = useState("North America & Europe");
 
-  const isTwitter = platform === "twitter";
-  const brandGradient = isTwitter
-    ? "from-sky-500 via-blue-600 to-indigo-600 hover:from-sky-400 hover:to-blue-500 shadow-sky-500/20"
-    : "from-orange-600 to-amber-600 hover:from-orange-500 hover:to-amber-500 shadow-orange-500/20";
+  const brandGradient =
+    "from-sky-500 via-blue-600 to-indigo-600 hover:from-sky-400 hover:to-blue-500 shadow-sky-500/20";
 
   const handleApplyPreset = (preset: typeof ICP_PRESETS[0]) => {
     if (mode === "freeform") {
@@ -92,12 +90,10 @@ export function IcpInputSection({
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    const competitorsList = isTwitter
-      ? competitorsText
-          .split(/[,\s]+/)
-          .map((c) => c.trim().replace(/^@+/, ""))
-          .filter(Boolean)
-      : [];
+    const competitorsList = competitorsText
+      .split(/[,\s]+/)
+      .map((c) => c.trim().replace(/^@+/, ""))
+      .filter(Boolean);
 
     onSearch(
       {
@@ -124,38 +120,26 @@ export function IcpInputSection({
     setCompanySize("");
     setPainPoints("");
     setLocation("");
-    if (isTwitter) setCompetitorsText("");
+    setCompetitorsText("");
   };
 
   return (
     <div className="w-full rounded-3xl border border-zinc-800 bg-zinc-900/60 p-5 sm:p-7 backdrop-blur-xl shadow-2xl relative overflow-hidden">
       {/* Glow background accent */}
-      <div
-        className={`absolute -top-24 -right-24 h-64 w-64 rounded-full blur-3xl opacity-15 pointer-events-none ${
-          isTwitter ? "bg-sky-500" : "bg-orange-500"
-        }`}
-      />
+      <div className="absolute -top-24 -right-24 h-64 w-64 rounded-full blur-3xl opacity-15 pointer-events-none bg-sky-500" />
 
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-5 border-b border-zinc-800">
         <div>
           <div className="flex items-center gap-2">
-            <span
-              className={`p-1.5 rounded-lg border text-xs font-semibold ${
-                isTwitter
-                  ? "bg-sky-500/10 text-sky-400 border-sky-500/20"
-                  : "bg-orange-500/10 text-orange-400 border-orange-500/20"
-              }`}
-            >
-              {isTwitter ? "X / Twitter Competitor Mention Radar" : "Reddit Community Radar"}
+            <span className="p-1.5 rounded-lg border text-xs font-semibold bg-sky-500/10 text-sky-400 border-sky-500/20">
+              X / Twitter Competitor Mention Radar
             </span>
             <h2 className="text-xl font-bold text-zinc-100 tracking-tight">
               Define Ideal Customer Profile (ICP) & Competitors
             </h2>
           </div>
           <p className="text-xs text-zinc-400 mt-1">
-            {isTwitter
-              ? "Monitor competitor mentions in the last 7 days and use AI to pinpoint dissatisfied prospects matching your ICP."
-              : "Choose between single prompt or granular parameters to scan for matching leads."}
+            Monitor competitor mentions in the last 7 days and use AI to pinpoint dissatisfied prospects matching your ICP.
           </p>
         </div>
 
@@ -220,48 +204,46 @@ export function IcpInputSection({
       {/* Main Input Form */}
       <form onSubmit={handleSubmit} className="mt-5 space-y-5">
         {/* Competitor Handles Input (for Twitter) */}
-        {isTwitter && (
-          <div className="rounded-2xl border border-sky-500/30 bg-sky-950/20 p-4 sm:p-5 space-y-3 shadow-inner">
-            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
-              <label className="text-xs font-bold text-sky-200 flex items-center gap-2">
-                <AtSign className="h-4 w-4 text-sky-400" />
-                <span>Target Competitor Handles (Twitter / X)</span>
-                <span className="rounded-md bg-sky-500/20 text-sky-300 px-2 py-0.5 text-[10px] font-semibold border border-sky-500/30">
-                  Last 7 Days Mentions
-                </span>
-              </label>
-              <span className="text-[11px] text-zinc-400">
-                Separate multiple handles with comma or space (e.g. <code className="text-sky-300">@linear, @jira</code>)
+        <div className="rounded-2xl border border-sky-500/30 bg-sky-950/20 p-4 sm:p-5 space-y-3 shadow-inner">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+            <label className="text-xs font-bold text-sky-200 flex items-center gap-2">
+              <AtSign className="h-4 w-4 text-sky-400" />
+              <span>Target Competitor Handles (Twitter / X)</span>
+              <span className="rounded-md bg-sky-500/20 text-sky-300 px-2 py-0.5 text-[10px] font-semibold border border-sky-500/30">
+                Last 7 Days Mentions
               </span>
-            </div>
-
-            <div className="relative">
-              <input
-                type="text"
-                value={competitorsText}
-                onChange={(e) => setCompetitorsText(e.target.value)}
-                placeholder="e.g. @linear, @jira, @asana, @apolloio"
-                className="w-full rounded-xl border border-sky-500/30 bg-zinc-950 px-4 py-3 text-sm text-zinc-100 placeholder-zinc-500 focus:border-sky-400 focus:outline-none focus:ring-2 focus:ring-sky-500/20 transition-all font-mono"
-                required
-              />
-            </div>
-
-            {/* Quick Competitor Suggestions */}
-            <div className="flex items-center gap-2 flex-wrap pt-1 text-xs">
-              <span className="text-[11px] text-zinc-400 font-medium">Quick Competitor Suggestions:</span>
-              {DEFAULT_COMPETITOR_SUGGESTIONS.map((comp) => (
-                <button
-                  key={comp}
-                  type="button"
-                  onClick={() => handleAddCompetitorChip(comp)}
-                  className="rounded-lg border border-sky-500/20 bg-sky-950/40 px-2.5 py-0.5 text-[11px] font-medium text-sky-300 hover:bg-sky-500/20 hover:border-sky-500/40 transition-all"
-                >
-                  + @{comp}
-                </button>
-              ))}
-            </div>
+            </label>
+            <span className="text-[11px] text-zinc-400">
+              Separate multiple handles with comma or space (e.g. <code className="text-sky-300">@linear, @jira</code>)
+            </span>
           </div>
-        )}
+
+          <div className="relative">
+            <input
+              type="text"
+              value={competitorsText}
+              onChange={(e) => setCompetitorsText(e.target.value)}
+              placeholder="e.g. @linear, @jira, @asana, @apolloio"
+              className="w-full rounded-xl border border-sky-500/30 bg-zinc-950 px-4 py-3 text-sm text-zinc-100 placeholder-zinc-500 focus:border-sky-400 focus:outline-none focus:ring-2 focus:ring-sky-500/20 transition-all font-mono"
+              required
+            />
+          </div>
+
+          {/* Quick Competitor Suggestions */}
+          <div className="flex items-center gap-2 flex-wrap pt-1 text-xs">
+            <span className="text-[11px] text-zinc-400 font-medium">Quick Competitor Suggestions:</span>
+            {DEFAULT_COMPETITOR_SUGGESTIONS.map((comp) => (
+              <button
+                key={comp}
+                type="button"
+                onClick={() => handleAddCompetitorChip(comp)}
+                className="rounded-lg border border-sky-500/20 bg-sky-950/40 px-2.5 py-0.5 text-[11px] font-medium text-sky-300 hover:bg-sky-500/20 hover:border-sky-500/40 transition-all"
+              >
+                + @{comp}
+              </button>
+            ))}
+          </div>
+        </div>
 
         {mode === "freeform" ? (
           /* FREEFORM PROMPT MODE */
@@ -376,9 +358,7 @@ export function IcpInputSection({
           <div className="text-xs text-zinc-400 flex items-center gap-2">
             <span className="h-2 w-2 rounded-full bg-emerald-500 animate-pulse" />
             <span>
-              {isTwitter
-                ? "Scans @competitor mentions from last 7 days & batches 10 at a time to AI"
-                : "Searching real-time Reddit posts, comments & subreddits"}
+              Scans @competitor mentions from last 7 days & batches 10 at a time to AI
             </span>
           </div>
 
@@ -395,7 +375,7 @@ export function IcpInputSection({
             ) : (
               <>
                 <Sparkles className="h-4 w-4" />
-                <span>{buttonLabel || (isTwitter ? "Analyze Competitor Mentions" : "Run Reddit ICP Discovery")}</span>
+                <span>{buttonLabel || "Analyze Competitor Mentions"}</span>
               </>
             )}
           </button>
